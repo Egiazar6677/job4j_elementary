@@ -6,8 +6,8 @@ public class Point {
         double z = y1 - y2;
         double q1 = 2;
         double z1 = 2;
-        double result1 = Math.pow(q,q1);
-        double result2 = Math.pow(z,z1);
+        double result1 = Math.pow(q, q1);
+        double result2 = Math.pow(z, z1);
         double rsl = result1 + result2;
         double rsp = Math.sqrt(rsl);
 
