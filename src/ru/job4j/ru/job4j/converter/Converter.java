@@ -22,4 +22,5 @@ public class Converter {
     passed = expected == out;
     System.out.println("120 rules are 2. Test result : " + passed);
     }
+
 }
