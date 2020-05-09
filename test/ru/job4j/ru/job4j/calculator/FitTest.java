@@ -8,7 +8,7 @@ public class FitTest {
 
 
     @Test
-    public void whenman183Then95() {
+    public void when183Then95() {
         double in = 183;
         double expected = 95.45;
         double out = Fit.manWeight(in);
